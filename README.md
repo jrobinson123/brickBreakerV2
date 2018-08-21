@@ -2,7 +2,7 @@
 second version
 
 ## Introduction
-Here is a basic video game I made in my first semester (high school, not college) of computer science. The game is my spin on the classic game Breakout. All code was written in Processing(Java). Writing the code was quite a process *laughter*. It took several weeks and quite a bit of help from my teacher but I was able to finish the project in May 2018. This was my first big project using OOP, so most of my code was implemented with classes and objects.
+Here is a basic video game I made in my first semester (high school, not college) of computer science. The game is my spin on the classic game Breakout. All code was written in Processing(Java). Writing the code was quite a process. It took several weeks and quite a bit of help from my teacher but I was able to finish the project in May 2018. This was my first big project using OOP, so most of my code was implemented with classes and objects.
 
 The game consists of a main menu and two levels. The objective is relatively simple: you try to knock down all the bricks and don’t allow the ball to go beneath the bottom of the screen. The gameplay should be quite intuitive but here are some of the caveats:
 You control the paddle with your mouse position
