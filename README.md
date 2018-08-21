@@ -5,8 +5,11 @@ second version
 Here is a basic video game I made in my first semester (high school, not college) of computer science. The game is my spin on the classic game Breakout. All code was written in Processing(Java). Writing the code was quite a process. It took several weeks and quite a bit of help from my teacher but I was able to finish the project in May 2018. This was my first big project using OOP, so most of my code was implemented with classes and objects.
 
 The game consists of a main menu and two levels. The objective is relatively simple: you try to knock down all the bricks and don’t allow the ball to go beneath the bottom of the screen. The gameplay should be quite intuitive but here are some of the caveats:
-You control the paddle with your mouse position
-The velocity and angle of the ball’s movement depends on where the ball hit the paddle
+
+
+1.You control the paddle with your mouse position
+
+2.The velocity and angle of the ball’s movement depends on where the ball hit the paddle
 
 
 
@@ -32,10 +35,12 @@ I’ll start by showing you the code which runs in method void draw. This is ess
 
 The second switch is for UI. The UI essentially lays itself over the base game. The UI switch has three main screens
 Lose screen
+
 Win screen
+
 Win screen final(there are two win screens for technical reasons)
 
-In addition to telling the player whether they won or lost, these 3 UI screens can revert users between levels.
+In addition to telling the player whether they won or lost, these 3 UI screens can revert between levels.
 
 ```processing
 void draw(){  
