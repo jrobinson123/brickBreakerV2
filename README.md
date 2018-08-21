@@ -24,7 +24,7 @@ https://processing.org/download/
 
 
 ## Usage
-To get my program on your machine you need to open the terminal, clone my work,and then go through the steps to get my files on your computer. Once you have the files, opening any .pde file should open my program and allow you to modify and play it.
+To get my program on your machine you need to open the terminal, clone my work,and then go through the steps to get my files on your computer. Once you have the files, opening any .pde file should open my program and allow you to modify and play my game.
 
 
 ## explanation
