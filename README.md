@@ -18,14 +18,11 @@ https://processing.org/download/
 
 
 
-processing v3
 
 
 ## Usage
 To get my program on your machine you need to open the terminal, clone my work,and then go through the steps to get my files on your computer. Once you have the files, opening any .pde file should open my program and allow you to modify and play it.
-open terminal
-get clone
-open pde file and have processing
+
 
 ## explanation
 
@@ -165,7 +162,7 @@ class brick{
 ```
 
 
-A paddle class:The class controls how the paddle moves and how the ball bounces off the brick.
+A paddle class:The class controls how the paddle moves and how the ball bounces off the brick. The velcoity and direction of the ball changes depnding on where the ball hits the paddle. Feel free to modify the numbers and experiment.
 ```processing
 class paddle{
   int paddleX;
