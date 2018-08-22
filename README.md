@@ -19,6 +19,8 @@ The game consists of a main menu and two levels. The objective is relatively sim
 You should be able to modify and play version of brick breaker yourself. All you need is processing(version 3). If you don’t have processing you can download it off the internet:
 https://processing.org/download/
 
+One other thing you may need to do is import the processing sound library(if you haven't already). 
+
 
 
 
